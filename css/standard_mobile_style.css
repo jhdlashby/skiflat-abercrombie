@@ -190,7 +190,7 @@
     left: 6vw;
     height: auto;
     width: 6vh;
-    fill: #eeeeee;
+    fill: #1089ff;
     cursor: pointer;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
@@ -203,7 +203,7 @@
     right: 10vw;
     height: auto;
     width: 6vh;
-    fill: #eeeeee;
+    fill: #1089ff;
     cursor: pointer;
     -webkit-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
